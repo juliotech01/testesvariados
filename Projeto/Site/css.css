@@ -1,0 +1,88 @@
+﻿*{
+	margin:0;
+	padding:0;
+	text-decoration: none; 
+}
+
+body{
+    font:20px Arial;
+  overflow-x: hidden;
+  overflow-y: scroll;
+
+}
+
+.menu {
+	max-width: 800px;
+	margin: 10px auto;
+	background:#F5A9E1;
+	text-align: center;
+	border-radius:5px; 
+}
+.menu>a{
+	  display:  inline-block;
+	  padding:15px;
+	  color: #000000;
+	  } 
+@media (max-width:800px){
+	  .menu > a {
+	  	display:block;
+	  	border-bottom:1px solid#fff;
+	  }
+
+
+}
+#goma{
+	float:left;
+	margin-right:105px;
+	
+	
+}
+	 	
+
+#fini{
+	float:right;
+         
+	
+}	
+
+
+#brigadeiro{
+	float:center;
+		 
+}
+
+
+#balao{
+	float:left;
+	margin-right:210px;
+        
+}
+    	 	
+
+
+#taça{
+        float:right;
+   	
+}
+    
+	
+   	
+#pulseira{
+	float:center;
+}
+
+
+
+#fim{
+	background-color:black;
+        background-size:350px 500px;
+	
+	color:white;
+	padding:25px;
+	text-align:right;
+	margin-right:-15px;   
+}		
+        
+		
+
+
